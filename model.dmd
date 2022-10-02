@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="model" id="271F1908-EB9A-B7E1-5929-0E5A1B93988F" version="3.5">
+<createdBy>Carbon</createdBy>
+<createdTime>2022-10-02 08:31:03 UTC</createdTime>
+<ownerDesignName>model</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>271F1908-EB9A-B7E1-5929-0E5A1B93988F</designId>
+</OSDM_Design>
